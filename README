@@ -1,1 +1,6 @@
-This is a Perl 6 module for using cookies in CGI applications.
+This is a Perl 6 module that implements an interface to HTTP Cookies. The
+module is under development and right now is mostly a placeholder for
+future work.
+
+Author: Nuno Carvalho
+License: Artistic License 2.0
